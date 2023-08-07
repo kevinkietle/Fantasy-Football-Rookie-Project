@@ -66,8 +66,11 @@ The model suggested looking at a player's draft capital, number of first downs t
 I then ran a K Nearest Neighbors model to see if I could predict who would finish top 5 within a given year. The best results I could achieve for correctly selecting top 5 finishes was a precision percentage of 22% and a recall percentage of 40%.
 
 I also ran a K Means Clustering model to spot trends in players that finish top 5. The clusters here were not as clear as the running back clusters but most of the players are first or second round picks with big play capability.
+
 &nbsp;
 &nbsp;
+&nbsp;
+
 Hope you enjoyed reading through this project!
 
 Feel free to contact me with any questions or inquiries.
